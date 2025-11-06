@@ -1,0 +1,15 @@
+[project]
+name = "tic-tac-toe"
+version = "0.1.0"
+description = "Local two-player and single-player Tic Tac Toe with tkinter UI"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [ { name = "Md. Jahidul Hasan", email = "captainjahid45@gmail.com" } ]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Games/Entertainment :: Board Games"
+]
+
+[tool.setuptools]
+# minimal metadata to support packaging if desired

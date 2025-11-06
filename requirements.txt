@@ -1,0 +1,3 @@
+# No external runtime dependencies required. tkinter is part of the Python standard library on most platforms.
+# If you add external packages, list them here, e.g.
+# numpy==1.27.0
