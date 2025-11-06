@@ -13,7 +13,7 @@ A beautiful local Tic Tac Toe game with a modern, polished UI built with Python 
 - **Smart scoreboard** tracking wins across games
 - **Choose your side**: Play as X or O in single-player mode
 - **Visual feedback**: Animated winning line highlight
-- **Game controls**: Restart (keep scores) or New Game (reset everything)
+- **Game controls**: rematch (keep scores) or New Game (reset everything)
 
 Requirements
 - Python 3.8+
