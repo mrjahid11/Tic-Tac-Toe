@@ -169,7 +169,7 @@ class TicTacToeApp:
             return
 
         if all(v is not None for v in self.board):
-            messagebox.showinfo("Draw", "It's a !")
+            messagebox.showinfo("Draw", "It's a Draw!")
             return
 
         self.current = 'O' if self.current == 'X' else 'X'
